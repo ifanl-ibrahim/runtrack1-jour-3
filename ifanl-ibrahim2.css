@@ -1,0 +1,28 @@
+.all{
+display: flex;
+justify-content: space-around;
+flex-direction: row-reverse;
+}
+
+.titre{
+    font-weight: lighter;
+    color: darkviolet;
+    font-size: xx-large;
+    text-shadow: black 1px 1px;
+    box-sizing: unset;
+    text-decoration: underline;
+    font-style: italic;}
+
+.texte{
+    font-size: x-large;
+    text-shadow: black 1px 1px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    font-family: 'Reenie Beanie', cursive;}
+
+.images2{width: 10%;}
+
+body{background-image: url("image/272862_kingdom-hearts-358-2-days-organization-xiii-theme-reverse_1920x1080_h.jpg");}

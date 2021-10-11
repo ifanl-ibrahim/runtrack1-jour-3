@@ -1,0 +1,30 @@
+.texte{
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    font-size: x-large;
+    text-shadow: goldenrod 3px 5px;
+    font-family: 'Rubik Mono One', sans-serif;}
+
+.titre{
+    color: gold;
+    text-shadow: black 3px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: goldenrod 2px;
+    border-radius: 10%;
+    background-color: white;}
+
+.all{
+  background-image:url("image/1568841477789.jpeg");}
+
+.images1{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;}
+
+.images2{
+    display: flex;
+    justify-content: center;
+    align-items: center;}

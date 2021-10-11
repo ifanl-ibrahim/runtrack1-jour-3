@@ -1,0 +1,27 @@
+body{
+    background-color: black;}
+
+.logo{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    border: white 2px;
+    border-radius: 10%;
+    box-shadow:white;}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: flex-end;
+    background-color: skyblue;
+    border: black 5px;
+    border-radius: 10%;
+    font-family: 'Rubik Mono One', sans-serif}
+
+.photo{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: flex-end;}
